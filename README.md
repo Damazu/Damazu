@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damazu/Damazu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damazu/Damazu/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Damazu/Damazu/output/github-contribution-grid-snake.svg">
-</picture>
+![github_stats](https://github-readme-stats.vercel.app/api?username=Damazu&theme=vision-friendly-dark)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damazu&layout=compact&theme=vision-friendly-dark )
+![snake](https://github.com/Damazu/Damazu/blob/output/github-snake-dark.svg)
