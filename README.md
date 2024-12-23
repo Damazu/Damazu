@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![snake gif](https://github.com/Damazu/Damazu/blob/output/github-contribution-grid-snake.svg)
 
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Damazu&repo=Damazu&theme=react)](https://github.com/Damazu/Damazu)
