@@ -69,12 +69,12 @@
 
   ### **Databases:**
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=f5c207)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
   ![MongoDb](https://img.shields.io/badge/MongoDb-000000?style=for-the-badge&logo=mongodb&logoColor=f5c207)&nbsp;
 
   ### **Tools:**
   ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f5c207)&nbsp;
   ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=f5c207)&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=f5c207)&nbsp;
   ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=f5c207)&nbsp;
   ![Android Studio](https://img.shields.io/badge/androidstudio-000000?style=for-the-badge&logo=androidstudio&logoColor=f5c207)&nbsp;
 
