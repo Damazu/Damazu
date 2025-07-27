@@ -21,13 +21,6 @@
 </details>
 
 <details>
-  <summary>📄 Resume</summary>
-  <div align="center" > 
-    <img src="https://github.com/user-attachments/assets/d03d6ea3-ccec-4eb7-b63d-8f0535f7304b">
-  </div>
-</details>
-
-<details>
   <summary>👤 Personal Interests</summary>
   
   <div align="justify">
