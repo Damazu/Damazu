@@ -100,7 +100,7 @@
     **Location:** Belo Horizonte, MG
 </details>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=35&center=true&vCenter=true&width=1000&lines=David+Dias+Pinto;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=35&center=true&vCenter=true&width=1000&lines=David+Dias+Pinto;05/03/2005;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
 
