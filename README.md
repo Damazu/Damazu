@@ -112,7 +112,7 @@
 
 
 
-**The Snake Game ![Snake]**
+**The Snake Game**![Snake](https://img.shields.io/badge/snake)&nbsp;
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damazu/Damazu/output/github-contribution-grid-snake-dark.svg">
