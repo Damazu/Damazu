@@ -5,9 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+In+Software+Engineer;Be+Welcome!+:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=yellow)](https://www.linkedin.com/in/arthur-freitas-jardim-075a95289/)
-[![Gmail Badge](https://img.shields.io/badge/-arthurjardimfreitas@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=yellow)](mailto:arthurjardimfreitas@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-afreitasj-000000?style=for-the-badge&logo=Instagram&logoColor=yellow)](https://www.instagram.com/afreitasj/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=yellow)](https://www.linkedin.com/in/david-dias-pinto-075a95289/)
+[![Gmail Badge](https://img.shields.io/badge/-davidias321123@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=yellow)](mailto:davidias321123@gmail.com)
 
 ---
 
@@ -42,7 +41,6 @@
             <p> 
             - 🎓 I am a <code>student</code> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> graduating in Software Engineering, currently in the fourth semester. <br/>
             - ⚽ My hobbies include watching <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro</a> and playing video games. <br/>
-            - 📄 Check out my <a href="https://github.com/ArthurFreitasJardim/ArthurFreitasJardim/blob/main/imgs/Currículo_ArthurFreitas.pdf" target="_blank">Resume</a> for more information.
             </p>
           </div>
         </td>
@@ -93,8 +91,8 @@
   <summary>📊 GitHub Stats</summary>
   
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurFreitasJardim&show_icons=true&count_private=true&hide_border=true&title_color=f5c207&icon_color=f5c207&text_color=f5c207&bg_color=0d1117" alt="Arthur github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitasJardim&layout=compact&hide_border=true&title_color=f5c207&text_color=f5c207&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DavidDiasPinto&show_icons=true&count_private=true&hide_border=true&title_color=f5c207&icon_color=f5c207&text_color=f5c207&bg_color=0d1117" alt="Arthur github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDiasPinto&layout=compact&hide_border=true&title_color=f5c207&text_color=f5c207&bg_color=0d1117" />
   </div>
 </details>
 
@@ -108,16 +106,16 @@
 
   - **Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)**  
     _Bachelor's Degree in Software Engineering_  
-    **Status:** Currently in the 5th semester  
+    **Status:** Currently in the 6th semester  
     **Location:** Belo Horizonte, MG
 </details>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=Arthur+Freitas+Jardim;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=David+Dias+Pinto;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5c207&height=120&section=footer"/>
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArthurFreitasJardim&color=grey&style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=DavidDiasPinto&color=grey&style=for-the-badge" alt="Visitor Count"/>
  </p>
 
 
