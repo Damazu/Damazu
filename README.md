@@ -1,6 +1,5 @@
 ## Olá a todos 👋
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+In+Software+Engineer;Be+Welcome!+:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
@@ -102,14 +101,14 @@
     **Status:** Currently in the 6th semester  
     **Location:** Belo Horizonte, MG
 </details>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5c207&size=35&center=true&vCenter=true&width=1000&lines=David+Dias+Pinto;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5c207&height=120&section=footer"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=35&center=true&vCenter=true&width=1000&lines=David+Dias+Pinto;23/11/2004;Belo+Horizonte-MG+📍;PUC-MG;Thanks+for+visiting+✌️:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidDiasPinto&color=grey&style=for-the-badge" alt="Visitor Count"/>
- </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidDiasPinto&color=38BDF8&style=for-the-badge" alt="Visitor Count"/>
+</p>
 
 
 
