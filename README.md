@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+In+Software+Engineer;Be+Welcome!+:%29&duration=4000&pause=5000)](https://git.io/typing-svg)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=38BDF8)]([(https://www.linkedin.com/in/david-dias2/)]
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=38BDF8)(https://www.linkedin.com/in/david-dias2/)]
 [![Gmail Badge](https://img.shields.io/badge/-davidias321123@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=38BDF8)](mailto:davidias321123@gmail.com)
 
 ---
