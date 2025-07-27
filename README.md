@@ -112,7 +112,7 @@
 
 
 
-
+**The Snake Game ![Snake]**
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damazu/Damazu/output/github-contribution-grid-snake-dark.svg">
