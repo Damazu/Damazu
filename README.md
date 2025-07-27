@@ -84,8 +84,8 @@
   <summary>📊 GitHub Stats</summary>
   
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DavidDiasPinto&show_icons=true&count_private=true&hide_border=true&title_color=f5c207&icon_color=f5c207&text_color=f5c207&bg_color=0d1117" alt="Arthur github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDiasPinto&layout=compact&hide_border=true&title_color=f5c207&text_color=f5c207&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Damazu&show_icons=true&count_private=true&hide_border=true&title_color=f5c207&icon_color=f5c207&text_color=f5c207&bg_color=0d1117" alt="David github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damazu&layout=compact&hide_border=true&title_color=f5c207&text_color=f5c207&bg_color=0d1117" />
   </div>
 </details>
 
