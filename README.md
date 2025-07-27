@@ -69,7 +69,7 @@
 
   ### **Databases:**
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=f5c207)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=mysql&logoColor=f5c207)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=mysql&logoColor=f5c207)
   ![MongoDb](https://img.shields.io/badge/MongoDb-000000?style=for-the-badge&logo=mongodb&logoColor=f5c207)&nbsp;
 
   ### **Tools:**
