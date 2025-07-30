@@ -10,7 +10,8 @@
 <details>
   <summary>📚 About Me</summary>
   
-  - **David Dias Pinto**  
+
+  **David Dias Pinto**  
     _Software Engineering Student_  
     **Age:** 20 years  
     **Location:** Belo Horizonte, Brazil  
